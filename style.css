@@ -65,8 +65,7 @@
     margin-left: 10px
 }
 .socialmedia:hover{
-    border-radius: 5px;
-    background: #ff9500;
+    color: #ff9500;
 }
 .para{
     color: white;
